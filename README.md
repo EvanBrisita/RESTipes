@@ -10,10 +10,10 @@ Get Twitter API Access: https://apps.twitter.com/
 
 Place access keys in a new config.py (get your own keys^)
 >> nano config.py
-consumer_key = *
-consumer_secret = *
-access_token = *
-access_token_secret = *
+>> consumer_key = *
+>> consumer_secret = *
+>> access_token = *
+>> access_token_secret = *
 
 # Run
 >> python restipes.py
